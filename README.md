@@ -1,6 +1,7 @@
 # IT Technical Support Portfolio
 
-About Me
+About Me:
+
 IT Support Specialist with hands-on troubleshooting, Active Directory, ticketing systems, networking, and remote support skills.
 
 Deploying Windows Server 2022 on Home Lab
