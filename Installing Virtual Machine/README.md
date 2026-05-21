@@ -1,4 +1,6 @@
-Virtual Machine Installation Project
+# Virtual Machine Installation Project 
+
+About this project
 
 This project demonstrates the setup and configuration of a virtual machine environment using virtualization software. The goal was to create a fully functional virtual machine capable of running a separate operating system for testing, learning, and system administration practice.
   
