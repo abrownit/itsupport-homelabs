@@ -2,7 +2,7 @@
 
 About Me
 
-IT Support Specialist with hands-on troubleshooting, Active Directory, ticketing systems, networking, and remote support skills.
+IT Support Specialist with hands-on experience in system administration, Active Directory, PowerShell scripting, ticketing systems, networking, and remote support; building practical IT skills through real-world lab projects and continuous learning.
 
 Deploying Windows Server 2022 on Home Lab
 
@@ -16,6 +16,7 @@ Skills Demonstrated:
 - System administration
 
 Installing Active Directory
+
 Skills Demonstrated:
 - Windows Server 2022 administration
 - Server role installation
