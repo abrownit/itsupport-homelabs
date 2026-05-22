@@ -1,6 +1,6 @@
 # Installing Virtual Machine and Server Setup 
 
-About this Lab
+About This Lab
 
 This project demonstrates the setup and configuration of a virtual machine environment using virtualization software. The goal was to create a fully functional virtual machine capable of running a separate operating system for testing, learning, and system administration practice.
   
