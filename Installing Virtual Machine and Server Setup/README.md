@@ -6,10 +6,10 @@ This project demonstrates the setup and configuration of a virtual machine envir
   
 Project Objectives:
 - Install and configure virtualization software
-- Create a new virtual machine instance
+- Create a new virtual machine (VM) instance
 - Allocate system resources (RAM, CPU, storage)
 - Install an operating system inside the VM
-- Configure networking and basic system settings
+- Configure basic system settings
 - Verify successful boot and functionality
 
 Technologies & Tools Used:
@@ -21,7 +21,7 @@ Installation Process:
 1) Installed virtualization software
 2) Created a new virtual machine
 3) Configured memory, processor, and storage allocation
-4) Mounted the operating system ISO file
+4) Mounted the Windows Server ISO file
 5) Completed OS installation and setup
 6) Logged in displaying successful deployment
 
@@ -33,7 +33,7 @@ Key Skills Demonstrated:
 - System setup and environment management
 
 Screenshots included in this repository document:
-- Virtual machine creation settings
+- Virtual machine creation and settings
 - Operating system installation steps
 - Successful VM boot process
 - Final configured virtual environment
