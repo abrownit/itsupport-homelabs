@@ -1,6 +1,6 @@
 # User Account Management Project (Adding, Modifying & Deleting Users)
 
-About
+About this project
 
 This project demonstrates hands-on experience managing user accounts within an Active Directory environment. The objective was to practice common Technical Support and administrative tasks related to user account creation, modification, permissions management, and account removal.
 
