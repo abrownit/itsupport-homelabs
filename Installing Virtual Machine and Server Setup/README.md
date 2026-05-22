@@ -1,4 +1,4 @@
-# Virtual Machine Installation Project 
+#Installing Virtual Machine and Server Setup 
 
 About this project
 
